@@ -1,6 +1,6 @@
-# This is Selenium Web Automation Project framework using Python 
+## This is Selenium Web Automation Project framework using Python 
 
-#  Install the Important Lib 
+# Install the Important Lib 
 - Selenium (>4 ver)
 - Pytest - instead Maven Pytest will take care
 - Allure Pytest - for Reports and screenshots
@@ -11,4 +11,5 @@
 - Faker lib - for fake data generation
 - 
 - (note: for BDD you can use Behave if needed in future)
-- 
+ 
+pip install selenium pytest pytest-html allure-pytest
